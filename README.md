@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## How it Works
+
+This page was made to work with React native app. React native app is supposed to embed this page in a webview and inject `window.clientSecret`.
+
 ## Getting Started
 
 First, run the development server:
